@@ -1,0 +1,35 @@
+
+
+
+.myBg {
+    height: 100vh;
+    background: url("../assets/images/bg/txt.jpg");
+    background-size: cover;
+}
+
+
+.intro {
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+}
+
+.trandingImage {
+    justify-content: center; 
+    background: url("../assets/images/super/sri.jpg");
+}
+
+
+.card {
+    /* height: auto;
+    width: auto; */
+    top: 0;
+}
